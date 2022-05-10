@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avichandco
+- 👋 Hi, I’m Avi Chand
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me @avichand on twitter and telegram
 
