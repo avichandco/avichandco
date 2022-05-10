@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me @avichand on twitter and telegram
+- 📫 Reach me @avichand on twitter and telegram
 
 <!---
 avichandco/avichandco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
